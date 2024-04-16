@@ -1,0 +1,13 @@
+section{
+    width: 200px;
+    border-style: solid;
+    border-width: 1px 3px 3px 1px;
+    border-color: rgb(85, 171, 241);
+    margin: auto;
+}
+header{
+    text-align: center;
+}
+p, h1{
+    padding: 4px;
+}
